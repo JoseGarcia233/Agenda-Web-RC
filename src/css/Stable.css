@@ -1,5 +1,11 @@
 .thead-info {
 
-    background-color: aqua;
-    text-align: center;
+    background-color: #54BAB9;
+    
+}
+
+.container-table {
+ width: 650px;
+ margin-left: 280px;
+
 }

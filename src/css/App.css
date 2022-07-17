@@ -1,22 +1,36 @@
-.App {
-  text-align: center;
+body{
+  background-color: #BDF2D5
+  
 }
 
 .container-form {
-  background-color: blue;
+  background-color: #54BAB9;
   display:grid;
   justify-content: center;
+  border-radius: 6%;
+  height: 210px;
+  width: 290px;
+  margin: 20px;
+  margin-left: 450px;
+  margin-bottom: 10px;
+  text-align: center;
   
 }
 
 input {
 
   text-align: center;
+  border-radius: 40%;
+  border-style: dotted;
+  background-color: #BDF2D5;
+  color : #0f0f0f;
+  
 }
 
 button { 
   display: grid;
   justify-content: center;
+  margin: 15px;
 }
 
 
