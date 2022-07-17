@@ -33,7 +33,7 @@
         </table>
     </div>
 )
-  
+
 }
 
 export default Table;
