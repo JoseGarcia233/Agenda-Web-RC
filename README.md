@@ -5,4 +5,4 @@ In the project directory, you can run:
 Esta es la tarea #4 de Jose Garcia matricula:2019-9056, debajo estaran las capturas
 
 ![First screenshot:](./src/img/Phobook-react-1.png)
-![First screenshot:](./src/img/Phobook-react-2.png)
+![Second screenshot:](./src/img/Phobook-react-2.png)
