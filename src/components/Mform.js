@@ -24,7 +24,7 @@ const From = () =>   {
     }
   
     function handle(e){
-      //
+      
       const ndata = {...data}
       ndata[e.target.id] = e.target.value
       setData(ndata)
@@ -41,10 +41,8 @@ const From = () =>   {
         <input onChange={(e)=>handle(e)}  id='telefono' value={data.telefono} placeholder='phone' type="text" required />
           <br/>
         <button type="submit" class="btn btn-outline-primary">Save</button>
-
       </form>
   </div>
-    
 
     )};
 
