@@ -1,10 +1,10 @@
-  import DtApi from "../services/DtApi"
+  import DtApi from "../hook/DtApi"
   const Table = () => {
     const[contacts]  = DtApi() 
     return (
             
     <div className="container-table">
-        <h1>contacts: {contacts.length}</h1>
+        <h1>Contacts: {contacts.length}</h1>
         <table class="table">
             <thead class="thead-info">
                 <tr>
